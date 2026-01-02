@@ -15,5 +15,4 @@ env/
 __pycache__/
 *.pyc
 
-# PyCharm
 .idea/
