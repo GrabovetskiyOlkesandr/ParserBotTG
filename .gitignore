@@ -1,20 +1,17 @@
-# secrets
+
 .env
 .env.*
 *.env
 !.env.example
 
-# local databases
 *.db
 *.sqlite
 *.sqlite3
 
-# venv
 .venv/
 venv/
 env/
 
-# python cache
 __pycache__/
 *.pyc
 
